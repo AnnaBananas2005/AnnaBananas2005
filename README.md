@@ -1,5 +1,7 @@
 # 💫 About Anna:
+<pre style="font-family: 'Courier New', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
 void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me.
+</pre>
 
 
 # 💻 Tech Stack:
