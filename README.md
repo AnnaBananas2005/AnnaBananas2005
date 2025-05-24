@@ -11,8 +11,15 @@
  　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.   *　　 　　✦　　　.　　.　　　✦　　˚ 　　
 
 <pre style="font-family: 'Courier New', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
-void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me.
+void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me. (don't take this seriously though LOL, I use std::)
 </pre>
+
+
+About me!
+I'm a Computer science student, and am almost half-way to getting my Bachleor's degree. Career-wise, I plan on being in the cybersecurity
+field! Currently I am working towards my COMPTIA Network+ and COMPTIA Security+ certifications. On here, you will find personal projects, 
+primarily done in C++. 
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
