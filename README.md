@@ -1,6 +1,6 @@
- ![coollogo_com-22735362](https://github.com/user-attachments/assets/059ac920-df27-4e69-8e5f-63881bf3e2ff)
+ ![coollogo_com-22735362](https://github.com/user-attachments/assets/059ac920-df27-4e69-8e5f-63881bf3e2ff) <!--Name image-->
  
-![resized](https://github.com/user-attachments/assets/cb509e98-5198-4535-bbf7-7336a5fea5ac)
+![resized](https://github.com/user-attachments/assets/cb509e98-5198-4535-bbf7-7336a5fea5ac) <!--Neon Divider -->
 
 
 
@@ -28,5 +28,6 @@ void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. 
  
 ▁▂▃▅▆▇▇▆▅▂▆▇▇▆▅▇▆▅▃▂▃▅▆▇▇▆▅▃▂▃▆▇▇▆▅▇▆▅▃▂▁▂▃▅▆▇▇▆▅▃▂▃▆▇▇▆▅▇▆▅▃▂▃▅▆▇▇▆▅▃▁▂▃▅▆▇▇▆▅▂▆▇▇▆▅
 
----
+![resized](https://github.com/user-attachments/assets/d6a7b1ff-740b-463d-8418-7e135722a92b) <!--Neon Divider -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
