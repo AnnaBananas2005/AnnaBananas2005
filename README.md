@@ -1,11 +1,21 @@
-# 💫 About Anna:
-<pre style="font-family: 'Courier New', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
-void aboutMe(){
-    cout << "<span style='color:red;'>W</span><span style='color:orange;'>e</span><span style='color:yellow;'>l</span><span style='color:green;'>c</span><span style='color:blue;'>o</span><span style='color:indigo;'>m</span><span style='color:violet;'>e</span> <span style='color:red;'>t</span><span style='color:orange;'>o</span> <span style='color:yellow;'>m</span><span style='color:green;'>y</span> <span style='color:blue;'>G</span><span style='color:indigo;'>i</span><span style='color:violet;'>t</span><span style='color:red;'>h</span><span style='color:orange;'>u</span><span style='color:yellow;'>b</span><span style='color:green;'>!</span>" << endl;
-}
-//Yeah. That's right. I skipped std:: -fight me.
-</pre>
+<h2> <!--MADE WITH COLORS :D--)-->
+  <span style="color:red;">💫</span>
+  <span style="color:orange;">A</span>
+  <span style="color:gold;">b</span>
+  <span style="color:green;">o</span>
+  <span style="color:blue;">u</span>
+  <span style="color:indigo;">t</span>
+  <span style="color:violet;"> </span>
+  <span style="color:pink;">A</span>
+  <span style="color:cyan;">n</span>
+  <span style="color:magenta;">n</span>
+  <span style="color:lightseagreen;">a</span>
+  <span style="color:hotpink;">:</span>
+</h2>
 
+<pre style="font-family: 'Courtier ', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me.
+</pre>
 
 
 # 💻 Tech Stack:
