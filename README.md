@@ -1,4 +1,6 @@
 #  ![flamingtext_com-24468191383](https://github.com/user-attachments/assets/719f48ed-c104-4ccb-a496-27889e3f65b0) 
+˚　　　　✦　　　.　　. 🪐　 ˚　.　　　　 　　.　　　　　　 ✦　　　.　　˚　🌒　　　　. ✦ 　🌍  ˚　.　　　.　　 ✦　　　.     .  ˚　
+ 　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.   *　　 　　✦　　　.　　.　　　✦　　˚ 　　
 
 <pre style="font-family: 'Courier New', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
 void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me.
