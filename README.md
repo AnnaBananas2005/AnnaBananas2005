@@ -1,19 +1,5 @@
-<h2> <!--MADE WITH COLORS :D--)-->
-  <span style="color:red;">💫</span>
-  <span style="color:orange;">A</span>
-  <span style="color:gold;">b</span>
-  <span style="color:green;">o</span>
-  <span style="color:blue;">u</span>
-  <span style="color:indigo;">t</span>
-  <span style="color:violet;"> </span>
-  <span style="color:pink;">A</span>
-  <span style="color:cyan;">n</span>
-  <span style="color:magenta;">n</span>
-  <span style="color:lightseagreen;">a</span>
-  <span style="color:hotpink;">:</span>
-</h2>
-
-<pre style="font-family: 'Courtier ', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+# 💫 About Anna:
+<pre style="font-family: 'Courier New', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
 void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me.
 </pre>
 
