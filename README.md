@@ -1,7 +1,11 @@
 # 💫 About Anna:
 <pre style="font-family: 'Courier New', monospace; font-size: 16px; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
-void aboutMe(){<br>    cout << "Welcome to my Github!" << endl;<br>}<br>//Yeah. That's right. I skipped std:: -fight me.
+void aboutMe(){
+    cout << "<span style='color:red;'>W</span><span style='color:orange;'>e</span><span style='color:yellow;'>l</span><span style='color:green;'>c</span><span style='color:blue;'>o</span><span style='color:indigo;'>m</span><span style='color:violet;'>e</span> <span style='color:red;'>t</span><span style='color:orange;'>o</span> <span style='color:yellow;'>m</span><span style='color:green;'>y</span> <span style='color:blue;'>G</span><span style='color:indigo;'>i</span><span style='color:violet;'>t</span><span style='color:red;'>h</span><span style='color:orange;'>u</span><span style='color:yellow;'>b</span><span style='color:green;'>!</span>" << endl;
+}
+//Yeah. That's right. I skipped std:: -fight me.
 </pre>
+
 
 
 # 💻 Tech Stack:
