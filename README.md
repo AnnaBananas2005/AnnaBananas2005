@@ -19,7 +19,7 @@ About me! 💻<br><br>
 I'm a Computer science student, and am almost half-way to getting my Bachleor's degree. Career-wise, I plan on being in the cybersecurity
 field! Currently I am working towards my COMPTIA Network+, A+ and Security+ certifications. On here, you will find personal projects, 
 primarily done in C++.<br><br>
-Outside of tech, I enjoy drawing ✏️, listening to music 🎧 (I enjoy all genres, but I'm a sucker for 70s/80s pop & rock), painting 🎨, reading 📚, 
+Outside of tech, I enjoy drawing ✏️, listening to music 🎧, painting 🎨, reading 📚, 
 philosophy 🧠, and playing musical instruments, mostly piano 🎹🥁.
 
 
